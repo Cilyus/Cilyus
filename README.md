@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=Laravel&logoColor=white" />
     <img src=" https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" /></br>
 </p>
-
+<hr>
 <p align="center">
     Olá, eu sou o André Luis, conhecido na internet como Cilyus e como todo bom programador tem que mostrar presença
     neste site, aqui está o meu perfil. 👨🏻‍💻 Sou entusiasta do mundo da programação desde muito cedo, quando eu
@@ -21,3 +21,5 @@
     o computador e me achava O PROGRAMADOR! Mas eu comecei de verdade a estudar programação em 2010, na antiga
     plataforma Blogger, do Google, foi ali que minha jornada como desenvolvedor web começou. 😁
 </p>
+
+##
