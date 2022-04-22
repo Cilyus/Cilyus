@@ -23,3 +23,6 @@
 </p>
 
 ##
+
+<hr>
+<p align="center"><b>Curtiu? Deixe sua estrela ⭐<b></p>
