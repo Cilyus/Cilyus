@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-PHP-000658?style=flat-square&logo=PHP"/>
 <img src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=Laravel&logoColor=white""/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 
 </p>
