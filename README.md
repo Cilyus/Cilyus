@@ -24,5 +24,13 @@
 
 ##
 
+<div align="center">
+  <a href="https://github.com/Cilyus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cilyus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cilyus&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+  ![Snake animation](https://github.com/Cilyus/Cilyus/blob/output/github-contribution-grid-snake.svg)
+
 <hr>
 <p align="center"><b>Curtiu? Deixe sua estrela ⭐<b></p>
