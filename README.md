@@ -30,7 +30,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cilyus&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-  ![Snake animation](https://github.com/Cilyus/Cilyus/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Cilyus/Cilyus/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <hr>
 <p align="center"><b>Curtiu? Deixe sua estrela ⭐<b></p>
