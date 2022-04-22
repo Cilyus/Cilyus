@@ -1,4 +1,20 @@
 <img src="https://raw.githubusercontent.com/Cilyus/Cilyus/main/img/1.gif" />
+<p align="center">
+<img src="https://img.shields.io/badge/-JAVA-ea2e2f?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-SASS-hotpink?style=flat-square&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-6da55f?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-PHP-000658?style=flat-square&logo=PHP"/>
+<img src="https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=Laravel&logoColor=white""/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+
+</p>
 <div style="display: inline-block">
     <p align="left">
         Olá, eu sou o André Luis, conhecido na internet como Cilyus e como todo bom programador tem que mostrar presença
